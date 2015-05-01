@@ -2,6 +2,8 @@
 
 Augmented reality application using Unity and Android
 
+Authored by Steve Jones and Brad Swift
+
 Goal: An application that will render 3D objects in a scene when a marker is presented to a camera
 
 SDKS: Vuforia
