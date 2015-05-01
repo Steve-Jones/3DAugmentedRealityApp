@@ -5,8 +5,8 @@ Augmented reality application using Unity and Android
 Goal: An application that will render 3D objects in a scene when a marker is presented to a camera
 
 
- 	    Our project topic is the creation of a mobile graphical scene using augmented reality. Our goal was to design
- 	 an application that will render 3D objects in a scene when a unique marker is presented to a camera. 
+ 	    Our project topic is the creation of a mobile graphical scene using augmented reality. Our goal was to
+ 	 design an application that will render 3D objects in a scene when a unique marker is presented to a camera. 
  	 We chose to use a $20 bill as a marker, and when the camera recognizes the bill, it projects the scene - a
  	 car on top of it, projected in a city with a few other views nearby, such as a mirrored view.
 	    The graphics themselves were completed in Unity. We had to upload a digital rendering of the bill,
