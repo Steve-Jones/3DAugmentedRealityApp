@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/stevejones/Google Drive/GitHub/3DAugmentedRealityApp/Android_FinalProject/Android_FinalProject_6/app/libs/QCARUnityPlayer.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7d43db729acc1e79e81e87f88cab0406a457cde4">
+        <dex dex="/Users/stevejones/Google Drive/GitHub/3DAugmentedRealityApp/Android_FinalProject/Android_FinalProject_6/app/build/intermediates/pre-dexed/release/QCARUnityPlayer-da28a5545c6a3473862501f34be4831d4f98b447.jar" />
+    </item>
+    <item
+        jar="/Users/stevejones/Google Drive/GitHub/3DAugmentedRealityApp/Android_FinalProject/Android_FinalProject_6/app/libs/Vuforia.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2af0347503c198002aa7b424a3b48a63779a33fe">
+        <dex dex="/Users/stevejones/Google Drive/GitHub/3DAugmentedRealityApp/Android_FinalProject/Android_FinalProject_6/app/build/intermediates/pre-dexed/release/Vuforia-63eb27d870f0dc751cd31e26c223bb32a8136e5c.jar" />
+    </item>
+    <item
+        jar="/Users/stevejones/Google Drive/GitHub/3DAugmentedRealityApp/Android_FinalProject/Android_FinalProject_6/app/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="572e54e8a1acce65303f6688286160e9d2dc4329">
+        <dex dex="/Users/stevejones/Google Drive/GitHub/3DAugmentedRealityApp/Android_FinalProject/Android_FinalProject_6/app/build/intermediates/pre-dexed/release/unity-classes-69678ede3b3fb2a64c41fc4185b30c90dd0a8188.jar" />
+    </item>
+
+</items>
