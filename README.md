@@ -12,6 +12,6 @@ Imported into Android Studio
 
 Need: Android device, $20 bill
 
-Shaders and other views: C# Scripts
+Shaders and other views: C# Scripts running ShaderLab code
 
-Soon to be on the Google Play Store
+On the Google Play Store!
