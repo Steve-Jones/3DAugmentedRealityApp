@@ -14,4 +14,4 @@ Need: Android device, $20 bill
 
 Shaders and other views: C# Scripts running ShaderLab code
 
-Pending acceptance to the Google Play Store!
+Now on the Google Play Store!
